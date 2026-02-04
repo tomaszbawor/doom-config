@@ -74,7 +74,6 @@
       :n "C-k" #'windmove-up
       :n "C-l" #'windmove-right
       :n "C-;" #'windmove-right
-      :n "C-_" #'+vterm/toggle
       :i "jj" #'evil-normal-state
       :n "g h" #'+lookup/documentation)
 
